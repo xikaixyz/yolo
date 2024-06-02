@@ -1,0 +1,7 @@
+cup: 1
+glove: 2
+bottle: 3
+phone: 4
+plastic container: 5
+toaster: 6
+microwave: 7
